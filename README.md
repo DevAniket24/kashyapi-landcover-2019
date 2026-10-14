@@ -13,8 +13,7 @@ Author: Aniket Sawargaonkar · October 2026
 | 03 | `03_classification_outputs.zip` | Output of notebook 1, cell 18: everything in 02 plus the random forest results. Input to notebook 04 |
 | 04 | `04_comparison_and_sensitivity.ipynb` | Notebook 2: Dynamic World and CGLS comparison, agreement statistics, diagnosis cells, sensitivity test |
 | 05 | `05_final_outputs.zip` | Output of notebook 2: all results (contents of 03 plus every comparison output) |
-| 06 | `06_report.docx` | Written report (350-word summary plus details) |
-| 07 | `07_presentation.pptx` | Presentation slides |
+| 06 | `06_presentation.pptx` | Presentation slides |
 
 ## How to reproduce the results
 
